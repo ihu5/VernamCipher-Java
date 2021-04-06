@@ -1,6 +1,6 @@
 // VernamCipher Encryption made by journey6 on github
 // these code shows each step like if done manually by hand
-import java.util.Random;   //random number methods
+import java.util.Random;  
 
 class VernamCipher{
 
