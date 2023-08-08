@@ -1,4 +1,4 @@
-// VernamCipher Encryption made by journey6 on github
+// VernamCipher Encryption made by ihu5 on github
 // these code shows each step like if done manually by hand
 import java.util.Random;  
 
